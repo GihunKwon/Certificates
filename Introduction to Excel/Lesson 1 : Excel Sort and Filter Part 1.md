@@ -24,7 +24,6 @@
 
 <br/><br/>
 
-### 1. Functions & Formulas
 <br/>
 
 ##### 1. Add
