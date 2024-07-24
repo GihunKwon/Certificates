@@ -20,3 +20,7 @@
 1. How many orders were placed from the East region after 10th Feb 2019?
 2. How many times did Gill sell pencils?
 - COUNTIFS(CRITERIA_RANGE1,CRITERIA1,CRITERIA_RANGE2,CRITERIA2)
+
+<br/><br/>
+
+## 3.2. Quiz
