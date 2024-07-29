@@ -30,3 +30,11 @@
 <br/><br/>
 
 ### Regression in Excel
+<br/>
+
+- X : independent variables
+- Y : dependent variable
+- DATA -> DATA ANALYSIS -> REGRESSION
+<br/>
+
+## 8.2 Quiz
