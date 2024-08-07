@@ -9,7 +9,6 @@ import mysql.connector
 from mysql.connector import Error
 import pandas a pd
 '''
-
 <br/>
 '''
 def create_server_connection(host_name,user_name,user_password):
@@ -25,7 +24,6 @@ def create_server_connection(host_name,user_name,user_password):
         print(f"Error : '{err}'")
     return connection
 '''
-
 <br/>
 '''
 pw = "....."
@@ -35,6 +33,7 @@ connection = create_server_connection("localhost","root",pw)
 <br/>
 
 # create mysql_python
+<code>
 '''
 def create_database(connection,query):
     cursor = connection.cursor()
