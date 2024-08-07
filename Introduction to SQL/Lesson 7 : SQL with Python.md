@@ -2,10 +2,13 @@
 <br/>
 
 ### Practice
+
 <code>
+'''
 import mysql.connector
 from mysql.connector import Error
 import pandas a pd
+'''
 
 <br/>
 '''
@@ -22,6 +25,7 @@ def create_server_connection(host_name,user_name,user_password):
         print(f"Error : '{err}'")
     return connection
 '''
+
 <br/>
 '''
 pw = "....."
