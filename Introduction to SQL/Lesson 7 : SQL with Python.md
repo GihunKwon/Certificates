@@ -4,7 +4,7 @@
 ### Practice
 
 <code>
-'''
+'''{python}
 import mysql.connector
 from mysql.connector import Error
 import pandas a pd
